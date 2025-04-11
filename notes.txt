@@ -1,0 +1,3 @@
+Folders with non-standard names are probably code examples I've taken from 
+the Mozilla tutorials / their GitHub pages. I will try and name them according 
+to the section of tutorial. 
